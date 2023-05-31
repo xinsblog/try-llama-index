@@ -1,4 +1,5 @@
-* 代码解读移步知乎：https://zhuanlan.zhihu.com/p/613155165
+* [llama-index(gpt-index)：后chatgpt时代的对话式文档问答解决方案
+](https://zhuanlan.zhihu.com/p/613155165)
 
 ## 前置准备
 
